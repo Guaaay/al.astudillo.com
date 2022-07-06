@@ -3,28 +3,30 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Welcome to my page! This blog is intended as a personal place where I can post things I make. Most posts are ripped directly from [my instagram](https://www.instagram.com/gaenial/) using [a tool I made](https://github.com/Guaaay/instatomd) that turns any post I make into markdown for posting on this blog. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<div class="message">
+  Expect most posts to be in spanish - this is a bilingual blog.
+</div>
 
-There are currently two themes built on Poole:
+## About me
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I'm a fourth year [UPM Computer Science student](https://www.fi.upm.es/?id=gradoingenieriainformatica) currently living in Madrid, Spain.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I am interested in (maybe *too many*) things, including but not limited to:
+
+* Coding (*duh*) and math
+* Photography
+* Creative writing
+* 3D and CGI
+* Graphic design 
+
+For any inquiry or business you can contact me on:
+<SCRIPT LANGUAGE="JavaScript">user = 'al';site = 'astudillo.com';document.write('<a href=\"mailto:' + user + '@' + site + '\">');document.write(user + '@' + site + '</a>');</SCRIPT>
+
 
 ## Setup
 
-Some fun facts about the setup of this project include:
+This blog is made using [Jekyll](http://jekyllrb.com) with the [Hyde theme](https://github.com/poole/hyde), made by [mdo](https://twitter.com/mdo).
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I host it on my private server.
