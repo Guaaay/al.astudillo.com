@@ -3,7 +3,26 @@
 
   {% include head.html %}
 
-  <body class="theme-base-0b">
+  <script type="text/javascript">
+    var color=new Array(6);
+    color[0]="theme-base-08";
+    color[1]="theme-base-09";
+    color[2]="theme-base-0b";
+    color[3]="theme-base-0b";
+    color[4]="theme-base-0c";
+    color[5]="theme-base-0d";
+    color[6]="theme-base-0e";
+    color[7]="theme-base-0f";
+    color[8]="theme-base-00";
+    function changeColor()
+    {
+      var ranNum= Math.floor(Math.random()*9);
+      console.log(color[ranNum])
+      document.body.setAttribute("class",color[ranNum]);
+    }
+  </script>
+
+  <body onload="changeColor()">
 
     {% include sidebar.html %}
 

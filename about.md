@@ -15,7 +15,7 @@ I'm a fourth year [UPM Computer Science student](https://www.fi.upm.es/?id=grado
 
 I am interested in (maybe *too many*) things, including but not limited to:
 
-* Coding (*duh*) and math
+* Coding and math
 * Photography
 * Creative writing
 * 3D and CGI

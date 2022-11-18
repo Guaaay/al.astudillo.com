@@ -7,7 +7,7 @@ title: Album Covers
 
 New Guests strongly set their foot on the indie rock scene with their debut album "we never got back" - a surprisingly endearing and introspective record full of rich string arrangements and crisp guitars. Frontman Jessie Grold and his partner Rita Hroust weave in and out of creative vocal harmonies that manage to trap the listener's ear for most of the songs, even if becoming a tad overbearing on some of the LP's later tracks. 
 
-![Album Covers](https://scontent-cdg2-1.cdninstagram.com/v/t51.29350-15/291024119_343799347917310_1626682323189082131_n.webp?stp=dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=qp2KfDtMDroAX--K_R8&_nc_ht=scontent-cdg2-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT-lEAfLnMSkYuiXOgMbq2SeTtnEfTnUqNshK1F7DYpyug&oe=62CB86B1)
+![Album Covers](/home/ubuntu/alastudillo/public/media/291024119_343799347917310_1626682323189082131_n.jfif)
 
 ### Omnes Perit - Tenebris Caelum
 
